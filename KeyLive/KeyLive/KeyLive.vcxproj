@@ -155,6 +155,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="KeyLive.cpp" />
+    <ClCompile Include="KeyLogger.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="KeyLogger.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

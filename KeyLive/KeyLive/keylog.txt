@@ -1,0 +1,52 @@
+Tecla presionada: A
+Time: 672562734
+Tecla presionada: B
+Time: 672562921
+Tecla presionada: C
+Time: 672563062
+Tecla presionada: 
+Time: 672564453
+Tecla presionada: 
+Time: 672564640
+Tecla presionada: 
+Time: 672564812
+Tecla presionada: 
+Time: 672565140
+Tecla presionada: 
+Time: 672565515
+Tecla presionada: 
+Time: 672565734
+Tecla presionada:  
+Time: 672566312
+Tecla presionada:  
+Time: 672566531
+Tecla presionada:  
+Time: 672566687
+Tecla presionada: 
+Time: 672567218
+Tecla presionada: 
+Time: 672567390
+Tecla presionada: 
+Time: 672567562
+Tecla presionada: ¢
+Time: 672571140
+Tecla presionada: C
+Time: 672571296
+Tecla presionada: A
+Time: 673561421
+Tecla presionada: C
+Time: 673562015
+Tecla presionada: V
+Time: 673562203
+Tecla presionada: A
+Time: 674016062
+Tecla presionada: B
+Time: 674016390
+Tecla presionada: C
+Time: 674016703
+a a v b c c a s a c v Tecla presionada: A
+Time: 674262500
+Tecla presionada: B
+Time: 674262687
+Tecla presionada: C
+Time: 674262859
